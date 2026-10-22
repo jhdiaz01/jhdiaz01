@@ -1,5 +1,5 @@
 ![Quality Engineer Animated Header](quality_engineer_header.gif)
-## Hi there 👋 I'm Jeremiah
+## Hi there, my name is Jeremy 👋
 
 ### Quality Engineer | Software QA | Test Automation
 
